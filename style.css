@@ -1,0 +1,62 @@
+.check{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin: 40px;
+}
+.form-check{
+    margin: 20px;
+}
+.card{
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-bottom: 40px;
+}
+#linC{
+    background-color: black;
+    border-color: black;
+}
+#linC:hover{
+    background-color: #E30052;
+}
+.img2{
+    display:flex;
+    align-items: center;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    justify-content: space-evenly;
+    padding: 90px;
+}
+.bar1{
+    width: 40%;
+    text-align: justify;
+}
+.imagen2{
+    width: 40%;
+    object-fit: contain;
+    border-radius: 20px;
+}
+.table{
+    margin-top: 100px;
+}
+#tc{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    margin: 3px;
+    font-size: 26px;
+}
